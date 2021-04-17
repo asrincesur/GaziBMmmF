@@ -74,8 +74,21 @@ Burayı ilerde açıklasam daha iyi olur gibi
 ## DDL
 Tabloların oluşturulması ve veri sözlükleri(data dictionary) burada yer almaktadır.
 
+(DDL, Veri Tanımlama Dilinin kısaltmasıdır . Veritabanındaki veritabanı nesnelerinin yapısını oluşturmak ve değiştirmek için kullanılır.
+
+Örnekler: CREATE, ALTER, DROP ifadeleri)
+
+
 ## DML
 Sorgular, SQL
+(DML, Veri İşleme Dilinin kısaltmasıdır . Veritabanındaki verileri almak, depolamak, değiştirmek, silmek, eklemek ve güncellemek için kullanılır.
+
+Örnekler: SELECT, UPDATE, INSERT deyimleri
+)
+
+
+
+
 
 ## Verinin görüntüsü (View of Data)
 ![resim](https://user-images.githubusercontent.com/44534126/115115304-64376a80-9f9c-11eb-9a9d-91b6f9c66834.png)\
